@@ -68,17 +68,15 @@ The lab simulates a small enterprise environment where systems communicate on th
 
 ## 🧠 High-Level Attack Flow
 
-Network Reconnaissance
-↓
-Service Enumeration
-↓
-Vulnerability Identification
-↓
-Controlled Exploitation
-↓
-Post-Exploitation Analysis
-↓
-Risk Evaluation & Reporting
+| Step | Phase |
+|------|------------------------------|
+| 1 | Network Reconnaissance |
+| 2 | Service Enumeration |
+| 3 | Vulnerability Identification |
+| 4 | Controlled Exploitation |
+| 5 | Post-Exploitation Analysis |
+| 6 | Risk Evaluation & Reporting |
+
 
 ---
 
